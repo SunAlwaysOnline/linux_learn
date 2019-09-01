@@ -16,3 +16,7 @@
 #### [centos安装jdk1.8的三种方法](https://blog.csdn.net/dhr201499/article/details/81626466)
 
 -------------------------------------------------
+### mysql
+#### [CentOS7安装MySQL（完整版）](https://blog.csdn.net/qq_36582604/article/details/80526287)
+
+-------------------------------------------------
