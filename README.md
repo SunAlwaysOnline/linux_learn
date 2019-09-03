@@ -15,7 +15,7 @@ nohup java -jar *****.jar > /root/logs/a.log &
 tail -f a.log
 
 查看80端口占用
-netstat -ln |grep 80  (l 显示listen状态的端口,n 拒绝显示别名,即将0.0.0.0:http显示为0.0.0.0:80)
+netstat -lnp |grep 80  (-l 显示listen状态的端口,-n 拒绝显示别名,即将0.0.0.0:http显示为0.0.0.0:80,-p 显示相应的pid与程序名)
 
 终止进程
 kill -9 pid
