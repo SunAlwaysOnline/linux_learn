@@ -40,5 +40,6 @@ kill -9 pid
 -------------------------------------------------
 ### mysql
 #### [CentOS7安装MySQL（完整版）](https://blog.csdn.net/qq_36582604/article/details/80526287)
+#### [Windows下安装MysQL5.6.36步骤](https://www.cnblogs.com/muhehe/p/7701989.html)
 
 -------------------------------------------------
