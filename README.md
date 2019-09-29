@@ -21,7 +21,7 @@ netstat -lnp |grep 80  (-l 显示listen状态的端口,-n 拒绝显示别名,即
 kill -9 pid
 
 由jar包查找进程号
-ps aux | grep jar包名称 | grep -v grep | awk '{print $2}'
+ps aux | grep jar包名称 | grep -v grep | awk '{print $2}'  
 grep -v grep 去除查找的进程号  
 awk '{print $2}' 以空格分隔结果，直接得到进程号  
 
