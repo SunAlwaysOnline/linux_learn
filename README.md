@@ -38,6 +38,10 @@ awk '{print $2}' 以空格分隔结果，直接得到进程号
 #### [CentOS 7 更新 curl 为最新版本](https://www.htcp.net/337.html)
 
 -------------------------------------------------
+### docker
+#### [centos下安装docker以及docker-composer](https://segmentfault.com/a/1190000017918472?utm_source=tag-newest)
+
+-------------------------------------------------
 ### jdk
 #### [centos安装jdk1.8的三种方法](https://blog.csdn.net/dhr201499/article/details/81626466)
 
